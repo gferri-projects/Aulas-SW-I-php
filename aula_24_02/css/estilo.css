@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+
+p{
+    background-color: rgb(173, 240, 240);
+    font-size: 30px;
+    text-align: center;
+}
+
+p.oi{
+    color: #000;
+}
