@@ -1,1 +1,1 @@
-# Aulas-SW-I-php
+# Scripts de exemplos dados em aula
