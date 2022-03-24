@@ -14,16 +14,16 @@
 
         switch ($turno){
             case "M":
-                echo "Bom dia, $nome !";
+                echo "<h3>Bom dia, $nome !</h3>";
                 break;
             case "T":
-                echo "Boa Tarde, $nome !";
+                echo "<h3>Boa Tarde, $nome !</h3>";
                 break;
             case "N":
-                echo "Boa noite, $nome !";
+                echo "<h3>Boa noite, $nome !</h3>";
                 break;
             default:
-                echo "Caracter incorreto $nome , digite novamente.";
+                echo "<h3>Carácter incorreto $nome , digite novamente.</h3>";
                 break;
         }
     ?>

@@ -20,3 +20,9 @@ input{
     border-radius: 10px;
 }
 
+h3{
+    margin-top: 10%;
+    background-color: rgb(93, 212, 248);
+    margin-left: 25%;
+    margin-right: 25%;
+}
