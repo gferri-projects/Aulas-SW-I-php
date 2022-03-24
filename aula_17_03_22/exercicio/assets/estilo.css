@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(127, 236, 255);
+    color:#fff;
+    font: normal 18pt arial;
+    text-align: center;
+}
+
+.form{
+    background-color: rgb(93, 212, 248);
+    height: 400px;
+    margin-left: 22%;
+    margin-right: 22%;
+    border-radius: 20px;
+    margin-top: 8%;
+}
+
+input{
+    margin-top: 2%;
+    padding: 1%;
+    border-radius: 10px;
+}
+
