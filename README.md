@@ -1,4 +1,4 @@
-## PHP (Hypertext Preprocessor) com professor o [Anderson Vanin](https://github.com/ProfAndersonVanin)
+## PHP (Hypertext Preprocessor) com professor [Anderson Vanin](https://github.com/ProfAndersonVanin)
 
 c:/xampp/htdocs - arquivos php devem ficar neste caminho 
 
