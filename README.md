@@ -25,3 +25,5 @@ Variáveis com valor boleano "true", o navegador exibe o número "1" e "false" n
 PHP interpreta e identifica strings com números
 
 Colocar comandos HTML dentro do script PHP com 'echo "tag";'
+
+Strtoupper - transformar string em maiúsculas
