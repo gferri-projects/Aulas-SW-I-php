@@ -1,16 +1,19 @@
 <?php
-    // checkbox do usuário
-    $g_celsius = $_POST['celsius'];
-    $g_faren = $_POST['faren'];
-
-    // temperatura
-    $temperatura = $_POST['temp'];
-
-    // função para converter farenheit para celsius
-    function faren()
-
-
-
-
-
+$temp = $_POST['temp'];
+$num = $_POST['num'];
+function cel($c){
+    $f = $c * 9/5+32;
+    echo "O valor em Farenheit é $f";
+}
+function far($f){
+    $c = ($f-32)*5/9;
+    echo "O valor em Celsius é $c";
+}
+if($num == 1){
+    cel($temp);
+}elseif($num == 2){
+    far($temp);
+}else{
+    echo "ERRO";
+}
 ?>
